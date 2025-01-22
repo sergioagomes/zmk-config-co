@@ -16,6 +16,11 @@
             bindings = <&kp EXCLAMATION>;
             key-positions = <0 1>;
         };
+
+        arroba {
+            bindings = <&kp AT_SIGN>;
+            key-positions = <2 1>;
+        };
     };
 
     keymap {
